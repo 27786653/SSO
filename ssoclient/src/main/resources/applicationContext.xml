@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<beans xmlns="http://www.springframework.org/schema/beans"  
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+    xmlns:mvc="http://www.springframework.org/schema/mvc"  
+    xsi:schemaLocation="http://www.springframework.org/schema/beans   
+                        http://www.springframework.org/schema/beans/spring-beans-3.2.xsd   
+                        http://www.springframework.org/schema/mvc  
+                        http://www.springframework.org/schema/mvc/spring-mvc-3.2.xsd">  
+    <bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">  
+        <property name="systemPropertiesModeName" value="SYSTEM_PROPERTIES_MODE_OVERRIDE"/>  
+        <property name="ignoreResourceNotFound" value="false"/>  
+        <property name="locations">  
+            <list>  
+                <value>classpath:config.properties</value>  
+            </list>  
+        </property>  
+    </bean>  
+    <mvc:resources mapping="/index.jsp" location="/index.jsp"/>  
+      
+    <!-- cas -->  
+    <bean name="casAuthenticationFilter" class="org.jasig.cas.client.authentication.AuthenticationFilter">  
+        <property name="serverName" value="${casClientServerName}"/>  
+        <property name="casServerLoginUrl" value="${casServerLoginUrl}"/>  
+    </bean>  
+    <bean name="casTicketValidationFilter" class="org.jasig.cas.client.validation.Cas20ProxyReceivingTicketValidationFilter">  
+        <property name="serverName" value="${casClientServerName}"/>  
+        <property name="ticketValidator">  
+            <bean class="org.jasig.cas.client.validation.Cas20ServiceTicketValidator">  
+                <constructor-arg index="0" value="${casServerUrlPrefix}"/>  
+            </bean>  
+        </property>  
+    </bean>  
+</beans> 
