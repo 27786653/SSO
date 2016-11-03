@@ -1,0 +1,685 @@
+2016-11-03 15:52:23,324 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 15:52:27,262 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-11-03 16:27:38,489 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 16:27:40,961 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-11-03 16:27:58,697 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2016-11-03 16:27:58,697 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2016-11-03 16:27:58,706 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2016-11-03 16:28:19,791 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /cas-server-webapp/
+2016-11-03 16:28:19,791 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /cas-server-webapp/
+2016-11-03 16:29:20,137 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - AcceptUsersAuthenticationHandler failed authenticating admin+password
+2016-11-03 16:29:20,145 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Thu Nov 03 16:29:20 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-03 16:29:20,146 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: 1 errors, 0 successes
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Thu Nov 03 16:29:20 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-03 16:29:26,589 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - AcceptUsersAuthenticationHandler failed authenticating admin+password
+2016-11-03 16:29:26,590 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Thu Nov 03 16:29:26 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-03 16:29:26,590 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: 1 errors, 0 successes
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Thu Nov 03 16:29:26 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-03 16:29:37,320 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - AcceptUsersAuthenticationHandler failed authenticating admin+password
+2016-11-03 16:29:37,321 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Thu Nov 03 16:29:37 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-03 16:29:37,321 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: 1 errors, 0 successes
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Thu Nov 03 16:29:37 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-03 16:29:39,364 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-03 16:29:39,364 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 16:30:17,405 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - AcceptUsersAuthenticationHandler successfully authenticated casuser+password
+2016-11-03 16:30:17,407 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - Authenticated casuser with credentials [casuser+password].
+2016-11-03 16:30:17,408 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [casuser+password]
+ACTION: AUTHENTICATION_SUCCESS
+APPLICATION: CAS
+WHEN: Thu Nov 03 16:30:17 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-03 16:30:17,412 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-1-VlRQtVMyPzPebHgOA9YMYoW1RlbJDcH9aRVqtrNye5Qg9hrSfy-cas01.example.org
+ACTION: TICKET_GRANTING_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Thu Nov 03 16:30:17 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-03 16:31:39,370 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-03 16:31:39,372 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 17:00:49,610 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 17:00:50,488 ERROR [org.jasig.cas.web.init.SafeContextLoaderListener] - SafeContextLoaderListener: 
+The Spring ContextLoaderListener we wrap threw on contextInitialized.
+But for our having caught this error, the web application context would not have initialized.
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'centralAuthenticationService' defined in ServletContext resource [/WEB-INF/spring-configuration/applicationContext.xml]: Cannot resolve reference to bean 'authenticationManager' while setting constructor argument; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'authenticationManager' defined in ServletContext resource [/WEB-INF/deployerConfigContext.xml]: Cannot resolve reference to bean 'dbAuthHandler' while setting constructor argument; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dbAuthHandler' defined in ServletContext resource [/WEB-INF/deployerConfigContext.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [com.mchange.v2.c3p0.ComboPooledDataSource] for bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/deployerConfigContext.xml]; nested exception is java.lang.ClassNotFoundException: com.mchange.v2.c3p0.ComboPooledDataSource
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:326)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:107)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveConstructorArguments(ConstructorResolver.java:623)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:148)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1075)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:979)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:487)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:458)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:296)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:223)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:628)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:932)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:479)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:389)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:294)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:112)
+	at org.jasig.cas.web.init.SafeContextLoaderListener.contextInitialized(SafeContextLoaderListener.java:75)
+	at org.mortbay.jetty.handler.ContextHandler.startContext(ContextHandler.java:549)
+	at org.mortbay.jetty.servlet.Context.startContext(Context.java:136)
+	at org.mortbay.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1282)
+	at org.mortbay.jetty.handler.ContextHandler.doStart(ContextHandler.java:518)
+	at org.mortbay.jetty.webapp.WebAppContext.doStart(WebAppContext.java:499)
+	at org.mortbay.jetty.plugin.Jetty6PluginWebAppContext.doStart(Jetty6PluginWebAppContext.java:115)
+	at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:50)
+	at org.mortbay.jetty.handler.HandlerCollection.doStart(HandlerCollection.java:152)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.doStart(ContextHandlerCollection.java:156)
+	at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:50)
+	at org.mortbay.jetty.handler.HandlerCollection.doStart(HandlerCollection.java:152)
+	at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:50)
+	at org.mortbay.jetty.handler.HandlerWrapper.doStart(HandlerWrapper.java:130)
+	at org.mortbay.jetty.Server.doStart(Server.java:224)
+	at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:50)
+	at org.mortbay.jetty.plugin.Jetty6PluginServer.start(Jetty6PluginServer.java:132)
+	at org.mortbay.jetty.plugin.AbstractJettyMojo.startJetty(AbstractJettyMojo.java:454)
+	at org.mortbay.jetty.plugin.AbstractJettyMojo.execute(AbstractJettyMojo.java:396)
+	at org.mortbay.jetty.plugin.AbstractJettyRunMojo.execute(AbstractJettyRunMojo.java:210)
+	at org.mortbay.jetty.plugin.Jetty6RunMojo.execute(Jetty6RunMojo.java:184)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:133)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:208)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:153)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:145)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:108)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:76)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:51)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:116)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:361)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:155)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:584)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:213)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:157)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:289)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:229)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:415)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:356)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'authenticationManager' defined in ServletContext resource [/WEB-INF/deployerConfigContext.xml]: Cannot resolve reference to bean 'dbAuthHandler' while setting constructor argument; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dbAuthHandler' defined in ServletContext resource [/WEB-INF/deployerConfigContext.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [com.mchange.v2.c3p0.ComboPooledDataSource] for bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/deployerConfigContext.xml]; nested exception is java.lang.ClassNotFoundException: com.mchange.v2.c3p0.ComboPooledDataSource
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:326)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:107)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveManagedMap(BeanDefinitionValueResolver.java:375)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:162)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveConstructorArguments(ConstructorResolver.java:637)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:148)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1075)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:979)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:487)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:458)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:296)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:223)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:320)
+	... 59 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dbAuthHandler' defined in ServletContext resource [/WEB-INF/deployerConfigContext.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [com.mchange.v2.c3p0.ComboPooledDataSource] for bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/deployerConfigContext.xml]; nested exception is java.lang.ClassNotFoundException: com.mchange.v2.c3p0.ComboPooledDataSource
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:326)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:107)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1417)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1158)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:458)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:296)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:223)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:320)
+	... 73 more
+Caused by: org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [com.mchange.v2.c3p0.ComboPooledDataSource] for bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/deployerConfigContext.xml]; nested exception is java.lang.ClassNotFoundException: com.mchange.v2.c3p0.ComboPooledDataSource
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveBeanClass(AbstractBeanFactory.java:1281)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:435)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:296)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:223)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:320)
+	... 83 more
+Caused by: java.lang.ClassNotFoundException: com.mchange.v2.c3p0.ComboPooledDataSource
+	at org.codehaus.plexus.classworlds.strategy.SelfFirstStrategy.loadClass(SelfFirstStrategy.java:50)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.unsynchronizedLoadClass(ClassRealm.java:259)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClass(ClassRealm.java:235)
+	at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClass(ClassRealm.java:227)
+	at org.mortbay.jetty.webapp.WebAppClassLoader.loadClass(WebAppClassLoader.java:401)
+	at org.mortbay.jetty.webapp.WebAppClassLoader.loadClass(WebAppClassLoader.java:363)
+	at org.springframework.util.ClassUtils.forName(ClassUtils.java:257)
+	at org.springframework.beans.factory.support.AbstractBeanDefinition.resolveBeanClass(AbstractBeanDefinition.java:416)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doResolveBeanClass(AbstractBeanFactory.java:1302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveBeanClass(AbstractBeanFactory.java:1273)
+	... 89 more
+2016-11-03 17:05:31,836 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 17:05:35,266 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-11-03 17:05:52,240 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2016-11-03 17:05:52,240 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2016-11-03 17:05:52,248 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2016-11-03 17:08:05,934 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 17:08:09,442 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-11-03 17:08:23,752 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-03 17:08:23,752 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-03 17:08:26,093 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:08:26,246 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2016-11-03 17:08:26,247 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2016-11-03 17:08:26,247 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2016-11-03 17:09:36,903 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Thu Nov 03 17:09:36 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-03 17:09:36,916 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: Could not get JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Thu Nov 03 17:09:36 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-03 17:09:36,919 ERROR [org.jasig.cas.integration.restlet.TicketResource] - Could not get JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Connections could not be acquired from the underlying database!
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:80)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:575)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:639)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:668)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:676)
+	at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:731)
+	at org.jasig.cas.authentication.handler.authenticateUsernamePasswordEcoding.authenticateUsernamePasswordInternal(authenticateUsernamePasswordEcoding.java:75)
+	at org.jasig.cas.authentication.handler.support.AbstractUsernamePasswordAuthenticationHandler.doAuthentication(AbstractUsernamePasswordAuthenticationHandler.java:79)
+	at org.jasig.cas.authentication.handler.support.AbstractPreAndPostProcessingAuthenticationHandler.authenticate(AbstractPreAndPostProcessingAuthenticationHandler.java:78)
+	at org.jasig.cas.authentication.PolicyBasedAuthenticationManager.authenticateInternal(PolicyBasedAuthenticationManager.java:211)
+	at org.jasig.cas.authentication.PolicyBasedAuthenticationManager.authenticate(PolicyBasedAuthenticationManager.java:143)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:317)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:80)
+	at org.perf4j.aop.AbstractTimingAspect$1.proceed(AbstractTimingAspect.java:47)
+	at org.perf4j.aop.AgnosticTimingAspect.runProfiledMethod(AgnosticTimingAspect.java:53)
+	at org.perf4j.aop.AbstractTimingAspect.doPerfLogging(AbstractTimingAspect.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:621)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:610)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:161)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:80)
+	at com.github.inspektr.audit.AuditTrailManagementAspect.handleAuditTrail(AuditTrailManagementAspect.java:126)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:621)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:610)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:161)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:91)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy42.authenticate(Unknown Source)
+	at org.jasig.cas.CentralAuthenticationServiceImpl.createTicketGrantingTicket(CentralAuthenticationServiceImpl.java:531)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:317)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:80)
+	at org.perf4j.aop.AbstractTimingAspect$1.proceed(AbstractTimingAspect.java:47)
+	at org.perf4j.aop.AgnosticTimingAspect.runProfiledMethod(AgnosticTimingAspect.java:53)
+	at org.perf4j.aop.AbstractTimingAspect.doPerfLogging(AbstractTimingAspect.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:621)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:610)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:161)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:80)
+	at com.github.inspektr.audit.AuditTrailManagementAspect.handleAuditTrail(AuditTrailManagementAspect.java:126)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:621)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:610)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:161)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:91)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy43.createTicketGrantingTicket(Unknown Source)
+	at org.jasig.cas.integration.restlet.TicketResource.acceptRepresentation(TicketResource.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.restlet.resource.ServerResource.doHandle(ServerResource.java:503)
+	at org.restlet.resource.ServerResource.doHandle(ServerResource.java:552)
+	at org.restlet.resource.ServerResource.post(ServerResource.java:1185)
+	at org.restlet.resource.ServerResource.doHandle(ServerResource.java:437)
+	at org.restlet.resource.ServerResource.doConditionalHandle(ServerResource.java:350)
+	at org.restlet.resource.ServerResource.handle(ServerResource.java:951)
+	at org.restlet.resource.Finder.handle(Finder.java:246)
+	at org.restlet.routing.Filter.doHandle(Filter.java:159)
+	at org.restlet.routing.Filter.handle(Filter.java:206)
+	at org.restlet.routing.Router.doHandle(Router.java:431)
+	at org.restlet.routing.Router.handle(Router.java:648)
+	at org.restlet.routing.Filter.doHandle(Filter.java:159)
+	at org.restlet.routing.Filter.handle(Filter.java:206)
+	at org.restlet.routing.Filter.doHandle(Filter.java:159)
+	at org.restlet.routing.Filter.handle(Filter.java:206)
+	at org.restlet.routing.Filter.doHandle(Filter.java:159)
+	at org.restlet.engine.application.StatusFilter.doHandle(StatusFilter.java:155)
+	at org.restlet.routing.Filter.handle(Filter.java:206)
+	at org.restlet.routing.Filter.doHandle(Filter.java:159)
+	at org.restlet.routing.Filter.handle(Filter.java:206)
+	at org.restlet.engine.CompositeHelper.handle(CompositeHelper.java:211)
+	at org.restlet.engine.application.ApplicationHelper.handle(ApplicationHelper.java:84)
+	at org.restlet.Application.handle(Application.java:381)
+	at org.restlet.ext.servlet.ServletAdapter.service(ServletAdapter.java:206)
+	at org.restlet.ext.spring.RestletFrameworkServlet.doService(RestletFrameworkServlet.java:124)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:936)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:838)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:812)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.mortbay.jetty.servlet.ServletHolder.handle(ServletHolder.java:511)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1221)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:343)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:260)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at com.github.inspektr.common.web.ClientInfoThreadLocalFilter.doFilter(ClientInfoThreadLocalFilter.java:63)
+	at org.mortbay.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1212)
+	at org.mortbay.jetty.servlet.ServletHandler.handle(ServletHandler.java:399)
+	at org.mortbay.jetty.security.SecurityHandler.handle(SecurityHandler.java:216)
+	at org.mortbay.jetty.servlet.SessionHandler.handle(SessionHandler.java:182)
+	at org.mortbay.jetty.handler.ContextHandler.handle(ContextHandler.java:766)
+	at org.mortbay.jetty.webapp.WebAppContext.handle(WebAppContext.java:450)
+	at org.mortbay.jetty.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:230)
+	at org.mortbay.jetty.handler.HandlerCollection.handle(HandlerCollection.java:114)
+	at org.mortbay.jetty.handler.HandlerWrapper.handle(HandlerWrapper.java:152)
+	at org.mortbay.jetty.Server.handle(Server.java:326)
+	at org.mortbay.jetty.HttpConnection.handleRequest(HttpConnection.java:542)
+	at org.mortbay.jetty.HttpConnection$RequestHandler.content(HttpConnection.java:945)
+	at org.mortbay.jetty.HttpParser.parseNext(HttpParser.java:756)
+	at org.mortbay.jetty.HttpParser.parseAvailable(HttpParser.java:218)
+	at org.mortbay.jetty.HttpConnection.handle(HttpConnection.java:404)
+	at org.mortbay.io.nio.SelectChannelEndPoint.run(SelectChannelEndPoint.java:410)
+	at org.mortbay.thread.QueuedThreadPool$PoolThread.run(QueuedThreadPool.java:582)
+Caused by: java.sql.SQLException: Connections could not be acquired from the underlying database!
+	at com.mchange.v2.sql.SqlUtils.toSQLException(SqlUtils.java:106)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutPooledConnection(C3P0PooledConnectionPool.java:529)
+	at com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource.getConnection(AbstractPoolBackedDataSource.java:128)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	... 137 more
+Caused by: com.mchange.v2.resourcepool.CannotAcquireResourceException: A ResourcePool could not acquire a resource from its primary factory or source.
+	at com.mchange.v2.resourcepool.BasicResourcePool.awaitAvailable(BasicResourcePool.java:1319)
+	at com.mchange.v2.resourcepool.BasicResourcePool.prelimCheckoutResource(BasicResourcePool.java:557)
+	at com.mchange.v2.resourcepool.BasicResourcePool.checkoutResource(BasicResourcePool.java:477)
+	at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool.checkoutPooledConnection(C3P0PooledConnectionPool.java:525)
+	... 140 more
+2016-11-03 17:10:06,955 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-03 17:10:06,956 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 17:10:37,564 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:12:11,711 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 17:12:14,674 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-11-03 17:12:31,957 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2016-11-03 17:12:31,958 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2016-11-03 17:12:31,958 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2016-11-03 17:12:37,929 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-03 17:12:37,929 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-03 17:12:38,157 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:12:47,691 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding successfully authenticated admin+password
+2016-11-03 17:12:47,698 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - Authenticated admin with credentials [admin+password].
+2016-11-03 17:12:47,702 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_SUCCESS
+APPLICATION: CAS
+WHEN: Thu Nov 03 17:12:47 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-03 17:12:47,704 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-1-6QgunFhbfHwUcz16bLDTUDwi7Y0I7jjvyxnMqchSfCR4qEHURK-cas01.example.org
+ACTION: TICKET_GRANTING_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Thu Nov 03 17:12:47 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-03 17:14:12,530 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-03 17:14:12,532 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 17:15:09,902 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding successfully authenticated admin+password
+2016-11-03 17:15:09,904 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - Authenticated admin with credentials [admin+password].
+2016-11-03 17:15:09,904 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_SUCCESS
+APPLICATION: CAS
+WHEN: Thu Nov 03 17:15:09 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-03 17:15:09,904 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-2-7mOgQYkz2bVD2Hum9CCzw6t3RkxEcHTMhekJuV9SNkraHuFomc-cas01.example.org
+ACTION: TICKET_GRANTING_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Thu Nov 03 17:15:09 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-03 17:15:57,619 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-IxNnc5czkkPdY29NMIJx-cas01.example.org] for service [http://www.google.com] for user [admin]
+2016-11-03 17:15:57,620 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: admin
+WHAT: ST-1-IxNnc5czkkPdY29NMIJx-cas01.example.org for http://www.google.com
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Thu Nov 03 17:15:57 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-03 17:16:12,524 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-03 17:16:12,524 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 17:16:52,415 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: ST-1-IxNnc5czkkPdY29NMIJx-cas01.example.org
+ACTION: SERVICE_TICKET_VALIDATED
+APPLICATION: CAS
+WHEN: Thu Nov 03 17:16:52 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-03 17:18:05,167 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - ServiceTicket [ST-1-IxNnc5czkkPdY29NMIJx-cas01.example.org] does not exist.
+2016-11-03 17:18:05,168 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: ST-1-IxNnc5czkkPdY29NMIJx-cas01.example.org
+ACTION: SERVICE_TICKET_VALIDATE_FAILED
+APPLICATION: CAS
+WHEN: Thu Nov 03 17:18:05 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-03 17:18:05,170 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [INVALID_TICKET] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:18:12,524 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-03 17:18:12,525 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 17:19:35,884 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:19:35,884 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:19:35,886 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:19:35,890 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:19:35,890 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:19:35,893 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:19:35,893 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:19:35,897 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:19:35,897 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:19:35,898 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:19:35,898 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:19:35,898 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:20:12,525 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-03 17:20:12,526 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 17:22:12,524 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-03 17:22:12,524 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 17:24:12,525 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-03 17:24:12,525 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 17:25:08,028 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 17:25:10,909 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-11-03 17:25:18,336 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-03 17:25:18,336 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-03 17:25:18,570 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:18,573 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:18,580 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:18,586 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:18,586 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:18,588 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:18,588 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:18,589 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:18,589 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:18,590 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:18,590 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:18,590 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:24,350 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [required.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:24,356 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:24,356 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:24,356 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:24,357 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:24,358 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:24,358 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:24,358 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:24,359 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:24,359 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:24,359 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:24,359 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:24,359 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:28,274 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2016-11-03 17:25:28,275 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2016-11-03 17:25:28,275 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2016-11-03 17:25:31,721 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [error.authentication.captcha.bad] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:31,728 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:31,729 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:31,730 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:31,732 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:31,732 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:31,733 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:31,734 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:31,735 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:31,735 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:31,735 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:31,735 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:31,735 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:41,272 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding failed authenticating admin+password
+2016-11-03 17:25:41,278 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Thu Nov 03 17:25:41 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-03 17:25:41,278 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: 1 errors, 0 successes
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Thu Nov 03 17:25:41 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-03 17:25:41,280 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [authenticationFailure.FailedLoginException] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:41,283 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:41,283 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:41,283 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:41,285 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:41,285 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:41,286 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:41,286 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:41,287 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:41,287 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:41,288 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:41,288 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:41,288 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:55,015 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding successfully authenticated admin+password
+2016-11-03 17:25:55,024 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - Authenticated admin with credentials [admin+password].
+2016-11-03 17:25:55,024 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_SUCCESS
+APPLICATION: CAS
+WHEN: Thu Nov 03 17:25:55 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-03 17:25:55,026 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-1-awQXobiBle95vgbGcov3UBMWORxh4COMYwqppTZOKz4391FzKM-cas01.example.org
+ACTION: TICKET_GRANTING_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Thu Nov 03 17:25:55 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-03 17:25:56,290 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.success.header] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:56,291 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.success.success] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:56,291 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.success.security] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:25:56,291 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:26:35,618 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-1-awQXobiBle95vgbGcov3UBMWORxh4COMYwqppTZOKz4391FzKM-cas01.example.org
+ACTION: TICKET_GRANTING_TICKET_DESTROYED
+APPLICATION: CAS
+WHEN: Thu Nov 03 17:26:35 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-03 17:26:35,867 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.logout.header] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:26:35,867 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.logout.success] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:26:35,867 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.logout.security] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:26:35,867 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:26:41,806 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-03 17:29:38,924 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 17:29:41,676 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-11-03 17:29:59,180 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2016-11-03 17:29:59,184 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2016-11-03 17:29:59,184 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2016-11-03 17:31:39,701 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-03 17:31:39,702 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 17:33:39,694 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-03 17:33:39,695 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
