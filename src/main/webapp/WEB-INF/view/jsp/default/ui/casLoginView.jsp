@@ -59,7 +59,7 @@ if(service==null||service.trim().length()<=0){
 				<c:when test="${not empty sessionScope.openIdLocalId}">
 					<strong>${sessionScope.openIdLocalId}</strong>
 					<input type="hidden" id="username" name="username"
-						value="${sessionScope.openIdLocalId}" />
+						value="${sessionScope.openIdLocalId}"  />
 				</c:when>
 				<c:otherwise>
 					<spring:message code="screen.welcome.label.netid.accesskey"
