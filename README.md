@@ -32,3 +32,13 @@
   casServerUrlPrefix=http://sso.web.com:8080/webdemo/
   casClientServerName=http://my.web.com:8083/
   ```
+## maven版本在分支 maven(cas-4.0)
+## maven版本说明：
+1. 添加验证码
+2. 自定义登录页
+3. 自定义返回多数据
+4. 集成restful  APl适配 C/S端
+5. 防止直接访问
+6. 完善验证码国际化
+7. 基于数据库登录
+8. 使用MD5加随机盐加密密码
