@@ -1,9 +1,18 @@
-# SSO
-单点登录
-
+# SSO单点登录
     公司项目需要大量集成，使用单点登录进行统一用户管理（不使用https，因为证书的提示框对于用户来说真是..）  
 
-## 配置说明  
+## maven版本在分支 maven(cas-4.0)
+## maven版本说明：
+1. 添加验证码
+2. 自定义登录页
+3. 自定义返回多数据
+4. 集成restful  APl适配 C/S端 [查看配置详情(博客)](http://blog.csdn.net/qqqqq210/article/details/53019010)
+5. 防止直接访问
+6. 完善验证码国际化
+7. 基于数据库登录
+8. 使用MD5加随机盐加密密码
+
+## 测试配置说明  
 
   1.建立域名
   
@@ -32,13 +41,3 @@
   casServerUrlPrefix=http://sso.web.com:8080/webdemo/
   casClientServerName=http://my.web.com:8083/
   ```
-## maven版本在分支 maven(cas-4.0)
-## maven版本说明：
-1. 添加验证码
-2. 自定义登录页
-3. 自定义返回多数据
-4. 集成restful  APl适配 C/S端
-5. 防止直接访问
-6. 完善验证码国际化
-7. 基于数据库登录
-8. 使用MD5加随机盐加密密码
