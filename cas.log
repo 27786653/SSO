@@ -683,3 +683,5 @@ SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
 2016-11-03 17:31:39,702 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
 2016-11-03 17:33:39,694 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
 2016-11-03 17:33:39,695 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-03 17:35:39,695 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-03 17:35:39,696 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.

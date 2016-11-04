@@ -180,6 +180,53 @@
     				</lifecycleMappingMetadata>
     			</configuration>
     		</plugin>
+    		<plugin>
+        <groupId>com.mycila.maven-license-plugin</groupId>
+        <artifactId>maven-license-plugin</artifactId>
+        <configuration>
+          <header>${basedir}/src/licensing/header.txt</header>
+          <skipExistingHeaders>true</skipExistingHeaders>
+          <strictCheck>true</strictCheck>
+          <headerDefinitions>
+            <headerDefinition>${basedir}/src/licensing/header-definitions.xml</headerDefinition>
+          </headerDefinitions>
+          <aggregate>true</aggregate>
+          <excludes>
+            <exclude>LICENSE</exclude>
+            <exclude>**/INSTALL*</exclude>
+            <exclude>**/NOTICE*</exclude>
+            <exclude>**/README*</exclude>
+            <exclude>**/readme*</exclude>
+            <exclude>**/*.log</exclude>
+            <exclude>**/*.license</exclude>
+            <exclude>**/*.txt</exclude>
+            <exclude>**/*.crt</exclude>
+            <exclude>**/*.crl</exclude>
+            <exclude>**/*.key</exclude>
+            <exclude>**/*.checkstyle</exclude>
+            <exclude>**/*.properties</exclude>
+            <exclude>**/.gitignore</exclude>
+            <exclude>**/overlays/**</exclude>
+            <exclude>src/licensing/**</exclude>
+            <exclude>**/testCA/**</exclude>
+            <exclude>**/.idea/**</exclude>
+            <exclude>**/*.keystore</exclude>
+            <exclude>**/*.example</exclude>
+            <exclude>**/*.sample</exclude>
+            <exclude>**/*.conf</exclude>
+            <exclude>**/*.doc</exclude>
+            <exclude>**/*.jmx</exclude>
+          </excludes>
+        </configuration>
+        <executions>
+            <execution>
+                <phase>compile</phase>
+                <goals>
+                    <goal>check</goal>
+                </goals>
+            </execution>
+        </executions>
+      </plugin>
     	</plugins>
     </pluginManagement>
   </build>
