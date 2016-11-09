@@ -104,7 +104,7 @@ if(service==null||service.trim().length()<=0){
 			<div style="height: 30px;float: left;margin-left: 71px;margin-right: 5px;">
 			<form:input cssClass="required" cssErrorClass="error" id="captcha"
 				size="10" tabindex="3" path="captcha"
-				accesskey="${passwordAccessKey}" htmlEscape="true"
+				accesskey="${captcha}" htmlEscape="true"
 				autocomplete="off" />
 			</div>
 				<div style="height: 30px;float: left;">

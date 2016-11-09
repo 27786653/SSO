@@ -149,6 +149,13 @@
 			<version>6.1.26</version>
 			<configuration>
 				<webAppSourceDirectory>${basedir}/src/main/webapp</webAppSourceDirectory>
+				<scanIntervalSeconds>3</scanIntervalSeconds>  
+                <contextPath>/yuhi-sso</contextPath>  
+                <connectors>  
+                    <connector implementation="org.mortbay.jetty.nio.SelectChannelConnector">  
+                        <port>8088</port>  
+                    </connector>  
+                </connectors>  
 			</configuration>
 		</plugin>
     		<!--This plugin's configuration is used to store Eclipse m2e settings only. It has no influence on the Maven build itself.-->

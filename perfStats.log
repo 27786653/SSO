@@ -85,3 +85,349 @@ Tag                                                  Avg(ms)         Min        
 Performance Statistics   2016-11-03 17:35:00 - 2016-11-03 17:36:00
 Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
 
+Performance Statistics   2016-11-09 14:39:00 - 2016-11-09 14:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:41:00 - 2016-11-09 14:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:42:00 - 2016-11-09 14:43:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:43:00 - 2016-11-09 14:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AUTHENTICATE                                           948.0         948         948         0.0           1
+CREATE_TICKET_GRANTING_TICKET                          954.0         954         954         0.0           1
+
+Performance Statistics   2016-11-09 14:44:00 - 2016-11-09 14:45:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AUTHENTICATE                                             2.0           2           2         0.0           2
+CREATE_TICKET_GRANTING_TICKET                            2.0           2           2         0.0           2
+
+Performance Statistics   2016-11-09 14:47:00 - 2016-11-09 14:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AUTHENTICATE                                         25263.0       25263       25263         0.0           1
+CREATE_TICKET_GRANTING_TICKET                        25283.0       25283       25283         0.0           1
+
+Performance Statistics   2016-11-09 14:49:00 - 2016-11-09 14:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:50:00 - 2016-11-09 14:51:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:50:00 - 2016-11-09 14:51:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AUTHENTICATE                                          2155.5        1877        2434       278.5           2
+CREATE_TICKET_GRANTING_TICKET                         2160.0        1880        2440       280.0           2
+GRANT_SERVICE_TICKET                                     1.0           1           1         0.0           1
+VALIDATE_SERVICE_TICKET                                  0.0           0           0         0.0           1
+
+Performance Statistics   2016-11-09 14:51:00 - 2016-11-09 14:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:51:00 - 2016-11-09 14:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+VALIDATE_SERVICE_TICKET                                  0.0           0           0         0.0           1
+
+Performance Statistics   2016-11-09 14:52:00 - 2016-11-09 14:53:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:52:00 - 2016-11-09 14:53:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:53:00 - 2016-11-09 14:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:53:00 - 2016-11-09 14:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:54:00 - 2016-11-09 14:55:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:54:00 - 2016-11-09 14:55:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:55:00 - 2016-11-09 14:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:55:00 - 2016-11-09 14:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:56:00 - 2016-11-09 14:57:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+GRANT_SERVICE_TICKET                                     2.0           2           2         0.0           1
+VALIDATE_SERVICE_TICKET                                  0.0           0           0         0.0           1
+
+Performance Statistics   2016-11-09 14:56:00 - 2016-11-09 14:57:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:57:00 - 2016-11-09 14:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+DESTROY_TICKET_GRANTING_TICKET                           3.0           3           3         0.0           1
+
+Performance Statistics   2016-11-09 14:57:00 - 2016-11-09 14:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:58:00 - 2016-11-09 14:59:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:58:00 - 2016-11-09 14:59:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AUTHENTICATE                                          1299.0           2        3892      1833.5           3
+CREATE_TICKET_GRANTING_TICKET                         1300.7           3        3894      1833.8           3
+GRANT_SERVICE_TICKET                                     0.0           0           0         0.0           1
+VALIDATE_SERVICE_TICKET                                  0.0           0           0         0.0           2
+
+Performance Statistics   2016-11-09 14:59:00 - 2016-11-09 15:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 14:59:00 - 2016-11-09 15:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:00:00 - 2016-11-09 15:01:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:00:00 - 2016-11-09 15:01:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:01:00 - 2016-11-09 15:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:01:00 - 2016-11-09 15:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:02:00 - 2016-11-09 15:03:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:02:00 - 2016-11-09 15:03:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:03:00 - 2016-11-09 15:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:03:00 - 2016-11-09 15:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:04:00 - 2016-11-09 15:05:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:04:00 - 2016-11-09 15:05:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:05:00 - 2016-11-09 15:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:05:00 - 2016-11-09 15:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:06:00 - 2016-11-09 15:07:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:06:00 - 2016-11-09 15:07:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:07:00 - 2016-11-09 15:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+GRANT_SERVICE_TICKET                                     0.0           0           0         0.0           1
+VALIDATE_SERVICE_TICKET                                  0.0           0           0         0.0           1
+
+Performance Statistics   2016-11-09 15:07:00 - 2016-11-09 15:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:08:00 - 2016-11-09 15:09:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+VALIDATE_SERVICE_TICKET                                  0.0           0           0         0.0           1
+
+Performance Statistics   2016-11-09 15:08:00 - 2016-11-09 15:09:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:09:00 - 2016-11-09 15:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:09:00 - 2016-11-09 15:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:10:00 - 2016-11-09 15:11:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+GRANT_SERVICE_TICKET                                     0.0           0           0         0.0           2
+
+Performance Statistics   2016-11-09 15:10:00 - 2016-11-09 15:11:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:11:00 - 2016-11-09 15:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:11:00 - 2016-11-09 15:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:12:00 - 2016-11-09 15:13:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:12:00 - 2016-11-09 15:13:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:13:00 - 2016-11-09 15:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:13:00 - 2016-11-09 15:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:14:00 - 2016-11-09 15:15:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:14:00 - 2016-11-09 15:15:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:15:00 - 2016-11-09 15:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:15:00 - 2016-11-09 15:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:16:00 - 2016-11-09 15:17:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:16:00 - 2016-11-09 15:17:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:17:00 - 2016-11-09 15:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:17:00 - 2016-11-09 15:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:18:00 - 2016-11-09 15:19:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:18:00 - 2016-11-09 15:19:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:19:00 - 2016-11-09 15:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:19:00 - 2016-11-09 15:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:20:00 - 2016-11-09 15:21:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:20:00 - 2016-11-09 15:21:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:21:00 - 2016-11-09 15:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:21:00 - 2016-11-09 15:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:23:00 - 2016-11-09 15:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AUTHENTICATE                                            96.3           2         373       159.8           4
+CREATE_TICKET_GRANTING_TICKET                           97.8           2         375       160.1           4
+DESTROY_TICKET_GRANTING_TICKET                           0.0           0           0         0.0           1
+GRANT_SERVICE_TICKET                                     2.0           2           2         0.0           1
+VALIDATE_SERVICE_TICKET                                  1.0           1           1         0.0           1
+
+Performance Statistics   2016-11-09 15:24:00 - 2016-11-09 15:25:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+VALIDATE_SERVICE_TICKET                                  0.0           0           0         0.0           1
+
+Performance Statistics   2016-11-09 15:25:00 - 2016-11-09 15:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:26:00 - 2016-11-09 15:27:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:27:00 - 2016-11-09 15:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:28:00 - 2016-11-09 15:29:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:29:00 - 2016-11-09 15:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+GRANT_SERVICE_TICKET                                     0.0           0           0         0.0           1
+VALIDATE_SERVICE_TICKET                                  0.0           0           0         0.0           1
+
+Performance Statistics   2016-11-09 15:30:00 - 2016-11-09 15:31:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:31:00 - 2016-11-09 15:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AUTHENTICATE                                             5.0           5           5         0.0           1
+CREATE_TICKET_GRANTING_TICKET                            6.0           6           6         0.0           1
+GRANT_SERVICE_TICKET                                     0.0           0           0         0.0           1
+VALIDATE_SERVICE_TICKET                                  0.0           0           0         0.0           1
+
+Performance Statistics   2016-11-09 15:32:00 - 2016-11-09 15:33:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:33:00 - 2016-11-09 15:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:34:00 - 2016-11-09 15:35:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:35:00 - 2016-11-09 15:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:36:00 - 2016-11-09 15:37:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:37:00 - 2016-11-09 15:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:38:00 - 2016-11-09 15:39:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:39:00 - 2016-11-09 15:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:40:00 - 2016-11-09 15:41:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:41:00 - 2016-11-09 15:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:42:00 - 2016-11-09 15:43:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:43:00 - 2016-11-09 15:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:44:00 - 2016-11-09 15:45:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:45:00 - 2016-11-09 15:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:46:00 - 2016-11-09 15:47:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:47:00 - 2016-11-09 15:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 15:48:00 - 2016-11-09 15:49:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 16:08:00 - 2016-11-09 16:09:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 16:09:00 - 2016-11-09 16:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 16:10:00 - 2016-11-09 16:11:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 16:11:00 - 2016-11-09 16:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AUTHENTICATE                                           577.0         577         577         0.0           1
+CREATE_TICKET_GRANTING_TICKET                          580.0         580         580         0.0           1
+DESTROY_TICKET_GRANTING_TICKET                           0.0           0           0         0.0           1
+
+Performance Statistics   2016-11-09 16:12:00 - 2016-11-09 16:13:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2016-11-09 16:13:00 - 2016-11-09 16:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+

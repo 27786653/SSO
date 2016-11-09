@@ -685,3 +685,1157 @@ SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
 2016-11-03 17:33:39,695 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
 2016-11-03 17:35:39,695 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
 2016-11-03 17:35:39,696 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 14:38:24,455 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 14:38:27,613 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-11-09 14:38:44,718 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2016-11-09 14:38:44,721 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2016-11-09 14:38:44,721 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2016-11-09 14:38:52,377 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-09 14:38:52,377 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-09 14:38:53,928 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:40:25,276 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 14:40:25,276 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 14:40:47,201 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 14:40:49,813 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-11-09 14:41:07,441 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2016-11-09 14:41:07,444 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2016-11-09 14:41:07,444 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2016-11-09 14:41:45,497 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-09 14:41:45,497 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-09 14:41:45,710 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:42:47,902 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 14:42:47,902 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 14:43:33,454 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:33,454 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:33,460 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:33,466 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:33,466 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:33,470 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:33,471 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:33,472 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:33,473 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:33,473 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:33,473 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:33,473 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:52,833 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding failed authenticating admin+password
+2016-11-09 14:43:52,837 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:43:52 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:43:52,837 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: 1 errors, 0 successes
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:43:52 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:43:52,841 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [authenticationFailure.FailedLoginException] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:52,846 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:52,846 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:52,847 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:52,848 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:52,848 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:52,849 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:52,849 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:52,850 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:52,850 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:52,850 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:52,850 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:43:52,850 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:06,776 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding failed authenticating admin+password
+2016-11-09 14:44:06,777 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:44:06 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:44:06,777 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: 1 errors, 0 successes
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:44:06 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:44:06,778 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [authenticationFailure.FailedLoginException] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:06,781 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:06,782 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:06,782 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:06,783 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:06,783 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:06,784 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:06,784 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:06,785 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:06,785 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:06,785 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:06,785 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:06,786 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:19,492 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding failed authenticating admin+password
+2016-11-09 14:44:19,493 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:44:19 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:44:19,493 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: 1 errors, 0 successes
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:44:19 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:44:19,493 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [authenticationFailure.FailedLoginException] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:19,496 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:19,496 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:19,496 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:19,498 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:19,498 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:19,499 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:19,500 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:19,502 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:19,502 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:19,502 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:19,502 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:19,502 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:44:47,900 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 14:44:47,901 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 14:45:44,958 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding failed authenticating admin+password
+2016-11-09 14:45:44,959 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:45:44 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:45:44,959 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: 1 errors, 0 successes
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:45:44 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:45:44,960 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [authenticationFailure.FailedLoginException] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:45:44,965 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:45:44,965 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:45:44,965 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:45:44,966 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:45:44,966 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:45:44,967 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:45:44,967 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:45:44,967 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:45:44,967 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:45:44,967 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:45:44,968 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:45:44,968 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:15,155 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [error.authentication.captcha.bad] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:15,161 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:15,161 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:15,162 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:15,163 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:15,163 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:15,164 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:15,164 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:15,166 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:15,166 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:15,166 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:15,166 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:15,166 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:40,559 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 14:46:43,758 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-11-09 14:46:48,057 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-09 14:46:48,057 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-09 14:46:48,316 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:48,318 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:48,325 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:48,329 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:48,329 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:48,332 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:48,332 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:48,334 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:48,334 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:48,334 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:48,335 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:46:48,335 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:47:00,850 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2016-11-09 14:47:00,850 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2016-11-09 14:47:00,851 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2016-11-09 14:47:43,450 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 14:47:46,550 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-11-09 14:47:50,100 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-09 14:47:50,100 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-09 14:47:50,364 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:47:50,367 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:47:50,372 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:47:50,378 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:47:50,378 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:47:50,380 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:47:50,380 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:47:50,383 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:47:50,383 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:47:50,383 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:47:50,384 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:47:50,384 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:48:03,820 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2016-11-09 14:48:03,821 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2016-11-09 14:48:03,821 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2016-11-09 14:48:23,219 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding failed authenticating admin+password
+2016-11-09 14:48:23,241 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:48:23 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:48:23,243 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: 1 errors, 0 successes
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:48:23 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:48:23,252 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [authenticationFailure.FailedLoginException] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:48:23,260 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:48:23,261 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:48:23,261 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:48:23,263 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:48:23,263 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:48:23,267 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:48:23,267 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:48:23,268 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:48:23,269 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:48:23,269 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:48:23,269 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:48:23,269 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:49:44,337 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 14:49:44,337 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 14:50:12,692 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Shutting down Quartz Scheduler
+2016-11-09 14:50:15,236 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 14:50:18,290 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-11-09 14:50:23,799 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-09 14:50:23,799 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-09 14:50:24,034 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:24,036 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:24,040 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:24,046 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:24,046 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:24,051 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:24,051 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:24,054 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:24,054 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:24,054 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:24,054 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:24,055 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:34,298 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding failed authenticating admin+password
+2016-11-09 14:50:34,302 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:50:34 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:50:34,303 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: 1 errors, 0 successes
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:50:34 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:50:34,306 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [authenticationFailure.FailedLoginException] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:34,310 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:34,310 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:34,311 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:34,313 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:34,313 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:34,314 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:34,314 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:34,315 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:34,315 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:34,315 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:34,315 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:34,315 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:50:35,452 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2016-11-09 14:50:35,453 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2016-11-09 14:50:35,453 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2016-11-09 14:50:51,765 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding successfully authenticated admin+password
+2016-11-09 14:50:51,799 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - Authenticated admin with credentials [admin+password].
+2016-11-09 14:50:51,799 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_SUCCESS
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:50:51 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:50:51,801 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-1-qVbtQW5c1k9QkOe36JNprfAAHb5H7nXffyhRZJysJvGuunrBXL-cas01.example.org
+ACTION: TICKET_GRANTING_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:50:51 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:50:51,806 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-b2sPuZU7zepPFqaXRAbH-cas01.example.org] for service [http://localhost:8081/yuhi-wx/login.do] for user [admin]
+2016-11-09 14:50:51,807 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: admin
+WHAT: ST-1-b2sPuZU7zepPFqaXRAbH-cas01.example.org for http://localhost:8081/yuhi-wx/login.do
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:50:51 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:50:51,879 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: ST-1-b2sPuZU7zepPFqaXRAbH-cas01.example.org
+ACTION: SERVICE_TICKET_VALIDATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:50:51 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-09 14:51:31,458 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - ServiceTicket [ST-1-b2sPuZU7zepPFqaXRAbH-cas01.example.org] does not exist.
+2016-11-09 14:51:31,460 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: ST-1-b2sPuZU7zepPFqaXRAbH-cas01.example.org
+ACTION: SERVICE_TICKET_VALIDATE_FAILED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:51:31 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-09 14:51:31,460 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [INVALID_TICKET] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:52:16,048 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 14:52:16,049 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 14:54:16,048 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 14:54:16,048 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 14:56:16,060 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 14:56:16,061 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 14:56:16,548 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-2-qAIwpvMxZekmCEUFXhmP-cas01.example.org] for service [http://localhost:8081/yuhi-wx/login.do] for user [admin]
+2016-11-09 14:56:16,549 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: admin
+WHAT: ST-2-qAIwpvMxZekmCEUFXhmP-cas01.example.org for http://localhost:8081/yuhi-wx/login.do
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:56:16 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:56:16,570 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: ST-2-qAIwpvMxZekmCEUFXhmP-cas01.example.org
+ACTION: SERVICE_TICKET_VALIDATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:56:16 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-09 14:57:12,488 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-1-qVbtQW5c1k9QkOe36JNprfAAHb5H7nXffyhRZJysJvGuunrBXL-cas01.example.org
+ACTION: TICKET_GRANTING_TICKET_DESTROYED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:57:12 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:57:12,778 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.logout.header] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:57:12,780 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.logout.success] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:57:12,780 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.logout.security] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:57:12,780 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:02,347 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:02,350 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:02,352 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:02,355 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:02,355 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:02,356 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:02,357 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:02,358 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:02,358 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:02,358 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:02,358 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:02,358 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:16,044 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 14:58:16,044 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 14:58:19,619 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding failed authenticating admin+password
+2016-11-09 14:58:19,621 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:58:19 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:58:19,623 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: 1 errors, 0 successes
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:58:19 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:58:19,627 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [authenticationFailure.FailedLoginException] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:19,636 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:19,636 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:19,636 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:19,639 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:19,639 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:19,641 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:19,641 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:19,643 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:19,643 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:19,643 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:19,643 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:19,643 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:35,740 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding failed authenticating admin+password
+2016-11-09 14:58:35,741 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:58:35 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:58:35,742 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: 1 errors, 0 successes
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:58:35 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:58:35,742 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [authenticationFailure.FailedLoginException] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:35,745 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:35,745 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:35,746 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:35,746 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:35,746 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:35,747 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:35,747 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:35,748 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:35,748 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:35,748 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:35,748 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:35,748 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 14:58:44,052 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding successfully authenticated admin+password
+2016-11-09 14:58:44,054 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - Authenticated admin with credentials [admin+password].
+2016-11-09 14:58:44,054 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_SUCCESS
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:58:44 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:58:44,055 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-2-V7UjHQAep0dNm5QgLmXSrNLPK9yhbx7q6KdRnzAb1nD6ldyCU5-cas01.example.org
+ACTION: TICKET_GRANTING_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:58:44 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:58:44,057 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-3-dg5rMBApGEJ6N7xwuG5R-cas01.example.org] for service [http://localhost:8081/yuhi-wx/login.do] for user [admin]
+2016-11-09 14:58:44,057 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: admin
+WHAT: ST-3-dg5rMBApGEJ6N7xwuG5R-cas01.example.org for http://localhost:8081/yuhi-wx/login.do
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:58:44 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 14:58:44,065 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: ST-3-dg5rMBApGEJ6N7xwuG5R-cas01.example.org
+ACTION: SERVICE_TICKET_VALIDATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:58:44 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-09 14:58:50,065 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - ServiceTicket [ST-3-dg5rMBApGEJ6N7xwuG5R-cas01.example.org] does not exist.
+2016-11-09 14:58:50,066 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: ST-3-dg5rMBApGEJ6N7xwuG5R-cas01.example.org
+ACTION: SERVICE_TICKET_VALIDATE_FAILED
+APPLICATION: CAS
+WHEN: Wed Nov 09 14:58:50 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-09 14:58:50,067 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [INVALID_TICKET] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:00:16,044 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:00:16,045 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:02:16,045 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:02:16,046 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:04:16,045 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:04:16,046 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:06:16,045 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:06:16,045 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:07:56,157 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-4-fzQ47RL3JCVlo7avAPP6-cas01.example.org] for service [http://localhost:8081/yuhi-wx/login.do] for user [admin]
+2016-11-09 15:07:56,158 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: admin
+WHAT: ST-4-fzQ47RL3JCVlo7avAPP6-cas01.example.org for http://localhost:8081/yuhi-wx/login.do
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:07:56 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:07:56,183 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: ST-4-fzQ47RL3JCVlo7avAPP6-cas01.example.org
+ACTION: SERVICE_TICKET_VALIDATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:07:56 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-09 15:08:06,700 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - ServiceTicket [ST-4-fzQ47RL3JCVlo7avAPP6-cas01.example.org] does not exist.
+2016-11-09 15:08:06,700 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: ST-4-fzQ47RL3JCVlo7avAPP6-cas01.example.org
+ACTION: SERVICE_TICKET_VALIDATE_FAILED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:08:06 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-09 15:08:06,702 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [INVALID_TICKET] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:08:16,044 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:08:16,044 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:10:06,726 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-5-nfLTaXRIzX7cd2zYmUo0-cas01.example.org] for service [http://localhost:8081/yuhi-wx/login.do] for user [admin]
+2016-11-09 15:10:06,727 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: admin
+WHAT: ST-5-nfLTaXRIzX7cd2zYmUo0-cas01.example.org for http://localhost:8081/yuhi-wx/login.do
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:10:06 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:10:15,190 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-6-N3TWZCqMXv3EdcmoM5fv-cas01.example.org] for service [http://localhost:8081/yuhi-wx/login.do] for user [admin]
+2016-11-09 15:10:15,190 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: admin
+WHAT: ST-6-N3TWZCqMXv3EdcmoM5fv-cas01.example.org for http://localhost:8081/yuhi-wx/login.do
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:10:15 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:10:16,045 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:10:16,046 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:12:16,045 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:12:16,045 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:14:16,044 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:14:16,045 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:16:16,045 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:16:16,046 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:18:16,045 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:18:16,046 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:20:16,063 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:20:16,063 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:22:16,050 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:22:16,050 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:22:50,800 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:22:55,151 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-11-09 15:23:11,236 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2016-11-09 15:23:11,240 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2016-11-09 15:23:11,240 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2016-11-09 15:23:17,286 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-09 15:23:17,286 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-09 15:23:17,323 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-2-V7UjHQAep0dNm5QgLmXSrNLPK9yhbx7q6KdRnzAb1nD6ldyCU5-cas01.example.org
+ACTION: TICKET_GRANTING_TICKET_DESTROYED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:23:17 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:23:17,555 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:17,557 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:17,564 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:17,567 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:17,567 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:17,569 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:17,569 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:17,571 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:17,571 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:17,571 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:17,571 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:17,571 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:28,120 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding failed authenticating admin+password
+2016-11-09 15:23:28,120 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:23:28 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:23:28,121 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: 1 errors, 0 successes
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:23:28 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:23:28,124 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [authenticationFailure.FailedLoginException] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:28,128 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:28,128 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:28,128 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:28,129 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:28,129 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:28,131 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:28,131 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:28,132 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:28,132 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:28,132 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:28,132 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:28,132 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:41,539 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding failed authenticating admin+password
+2016-11-09 15:23:41,540 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:23:41 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:23:41,540 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: 1 errors, 0 successes
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:23:41 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:23:41,541 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [authenticationFailure.FailedLoginException] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:41,544 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:41,544 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:41,544 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:41,545 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:41,545 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:41,545 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:41,546 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:41,546 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:41,546 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:41,546 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:41,547 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:41,547 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:50,434 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding failed authenticating admin+password
+2016-11-09 15:23:50,435 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:23:50 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:23:50,435 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: 1 errors, 0 successes
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:23:50 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:23:50,436 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [authenticationFailure.FailedLoginException] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:50,441 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:50,441 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:50,441 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:50,442 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:50,442 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:50,444 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:50,444 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:50,445 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:50,445 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:50,445 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:50,445 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:50,445 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:23:57,740 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding successfully authenticated admin+password
+2016-11-09 15:23:57,745 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - Authenticated admin with credentials [admin+password].
+2016-11-09 15:23:57,746 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_SUCCESS
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:23:57 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:23:57,748 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-1-qrBeHDxNIctWLqqibvQx7wkO0AoiVPXLKd6tgsbUyKzpeq9WOB-cas01.example.org
+ACTION: TICKET_GRANTING_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:23:57 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:23:57,758 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-beJOdyFc5anno6fMWy41-cas01.example.org] for service [http://localhost:10022/yuhi-wx/login.do] for user [admin]
+2016-11-09 15:23:57,759 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: admin
+WHAT: ST-1-beJOdyFc5anno6fMWy41-cas01.example.org for http://localhost:10022/yuhi-wx/login.do
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:23:57 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:23:57,796 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: ST-1-beJOdyFc5anno6fMWy41-cas01.example.org
+ACTION: SERVICE_TICKET_VALIDATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:23:57 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-09 15:24:04,483 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - ServiceTicket [ST-1-beJOdyFc5anno6fMWy41-cas01.example.org] does not exist.
+2016-11-09 15:24:04,484 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: ST-1-beJOdyFc5anno6fMWy41-cas01.example.org
+ACTION: SERVICE_TICKET_VALIDATE_FAILED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:24:04 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-09 15:24:04,485 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [INVALID_TICKET] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:24:51,783 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:24:51,784 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:26:51,781 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:26:51,781 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:28:51,782 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:28:51,783 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:29:45,085 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-2-WtFfdP5DJVZ2CXy7JcN2-cas01.example.org] for service [http://localhost:10022/yuhi-wx/login.do] for user [admin]
+2016-11-09 15:29:45,085 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: admin
+WHAT: ST-2-WtFfdP5DJVZ2CXy7JcN2-cas01.example.org for http://localhost:10022/yuhi-wx/login.do
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:29:45 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:29:45,096 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: ST-2-WtFfdP5DJVZ2CXy7JcN2-cas01.example.org
+ACTION: SERVICE_TICKET_VALIDATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:29:45 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-09 15:30:51,782 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:30:51,783 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:31:41,447 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:31:41,448 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:31:41,448 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:31:41,449 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:31:41,449 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:31:41,450 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:31:41,450 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:31:41,451 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:31:41,451 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:31:41,451 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:31:41,451 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:31:41,451 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 15:31:53,658 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding successfully authenticated admin+password
+2016-11-09 15:31:53,661 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - Authenticated admin with credentials [admin+password].
+2016-11-09 15:31:53,662 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_SUCCESS
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:31:53 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:31:53,662 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-2-Axwvc2eI0Sf4NgDrfUEo2JGzNCGNuhE5VbmAWgSkGQroJnlUgV-cas01.example.org
+ACTION: TICKET_GRANTING_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:31:53 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:31:53,664 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-3-sa2URxDHr2WlPHKxwgnN-cas01.example.org] for service [http://localhost:10022/yuhi-wx/login.do] for user [admin]
+2016-11-09 15:31:53,665 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: admin
+WHAT: ST-3-sa2URxDHr2WlPHKxwgnN-cas01.example.org for http://localhost:10022/yuhi-wx/login.do
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:31:53 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 15:31:53,677 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: ST-3-sa2URxDHr2WlPHKxwgnN-cas01.example.org
+ACTION: SERVICE_TICKET_VALIDATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 15:31:53 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
+2016-11-09 15:32:51,782 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:32:51,783 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:34:51,783 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:34:51,784 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:36:51,782 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:36:51,782 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:38:51,785 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:38:51,786 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:40:51,781 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:40:51,786 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:42:51,782 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:42:51,782 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:44:51,783 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:44:51,784 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:46:51,781 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:46:51,782 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 15:48:51,783 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 15:48:51,784 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 16:07:36,439 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 16:07:41,637 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-11-09 16:07:56,741 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2016-11-09 16:07:56,743 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2016-11-09 16:07:56,743 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2016-11-09 16:09:37,552 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 16:09:37,553 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 16:11:11,892 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-09 16:11:11,892 INFO [org.jasig.cas.web.flow.InitialFlowSetupAction] - Setting path for cookies to: /yuhi-sso/
+2016-11-09 16:11:11,932 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-2-Axwvc2eI0Sf4NgDrfUEo2JGzNCGNuhE5VbmAWgSkGQroJnlUgV-cas01.example.org
+ACTION: TICKET_GRANTING_TICKET_DESTROYED
+APPLICATION: CAS
+WHEN: Wed Nov 09 16:11:11 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 16:11:12,292 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:12,294 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:12,304 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:12,309 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:12,309 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:12,312 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:12,312 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:12,314 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:12,314 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:12,315 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:12,315 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:12,315 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:24,505 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding failed authenticating admin+password
+2016-11-09 16:11:24,506 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_FAILED
+APPLICATION: CAS
+WHEN: Wed Nov 09 16:11:24 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 16:11:24,507 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: 1 errors, 0 successes
+ACTION: TICKET_GRANTING_TICKET_NOT_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 16:11:24 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 16:11:24,510 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [authenticationFailure.FailedLoginException] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:24,514 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:24,514 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:24,515 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:24,516 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:24,516 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:24,517 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:24,517 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:24,519 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:24,519 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:24,519 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:24,520 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:24,520 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:11:37,539 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 16:11:37,540 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 16:13:37,540 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2016-11-09 16:13:37,542 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-09 16:13:50,213 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [error.authentication.captcha.bad] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:13:52,331 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.instructions] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:13:52,331 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:13:52,334 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.netid.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:13:52,335 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:13:52,335 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:13:52,336 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.captcha] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:13:52,337 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.password.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:13:52,338 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn.accesskey] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:13:52,338 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.label.warn] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:13:52,338 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.login] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:13:52,338 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [screen.welcome.button.clear] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:13:52,338 WARN [org.jasig.cas.web.view.CasReloadableMessageBundle] - The code [copyright] cannot be found in the language bundle for the locale [zh_CN]
+2016-11-09 16:14:04,989 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - authenticateUsernamePasswordEcoding successfully authenticated admin+password
+2016-11-09 16:14:04,996 INFO [org.jasig.cas.authentication.PolicyBasedAuthenticationManager] - Authenticated admin with credentials [admin+password].
+2016-11-09 16:14:04,997 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: supplied credentials: [admin+password]
+ACTION: AUTHENTICATION_SUCCESS
+APPLICATION: CAS
+WHEN: Wed Nov 09 16:14:04 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 16:14:04,999 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: TGT-1-9md1tMxKOTDrhJvlSZ3OchWY1D2KlIRQCoQlPMif1rEcSrsSee-cas01.example.org
+ACTION: TICKET_GRANTING_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 16:14:04 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 16:14:05,006 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-zTRbHzYer6V1142Z0JvS-cas01.example.org] for service [http://localhost:10022/yuhi-wx/login.do] for user [admin]
+2016-11-09 16:14:05,006 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: admin
+WHAT: ST-1-zTRbHzYer6V1142Z0JvS-cas01.example.org for http://localhost:10022/yuhi-wx/login.do
+ACTION: SERVICE_TICKET_CREATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 16:14:05 CST 2016
+CLIENT IP ADDRESS: 0:0:0:0:0:0:0:1
+SERVER IP ADDRESS: 0:0:0:0:0:0:0:1
+=============================================================
+
+
+2016-11-09 16:14:05,030 INFO [com.github.inspektr.audit.support.Slf4jLoggingAuditTrailManager] - Audit trail record BEGIN
+=============================================================
+WHO: audit:unknown
+WHAT: ST-1-zTRbHzYer6V1142Z0JvS-cas01.example.org
+ACTION: SERVICE_TICKET_VALIDATED
+APPLICATION: CAS
+WHEN: Wed Nov 09 16:14:05 CST 2016
+CLIENT IP ADDRESS: 127.0.0.1
+SERVER IP ADDRESS: 127.0.0.1
+=============================================================
+
+
